@@ -1,1 +1,1 @@
-# covid-form
+This form accepts first name, last name, date of birth, address, symptoms faces, phone number, email id and asks whether the user has taken the vaccine. JS is used to validate the form and CSS is used to design it.
